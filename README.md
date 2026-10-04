@@ -1,3 +1,7 @@
+![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.2-brightgreen?logo=springboot)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 # Corporate Admin Panel
 
 Админ-панель корпоративного сервиса на **Spring Boot 3**:
